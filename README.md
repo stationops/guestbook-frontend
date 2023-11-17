@@ -4,7 +4,7 @@
 ```
 yarn install 
 ```
-now
+no
 
 ### Compiles and hot-reloads for development
 ```
